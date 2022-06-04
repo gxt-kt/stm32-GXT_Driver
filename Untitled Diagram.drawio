@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T07:05:05.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.0" etag="_49z8Jhzwlhrg90bEElj" type="github"><diagram id="LGe4wh-2-dh8B7qXWwJX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-04T07:09:57.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_qMJzbI2wRPWqJBL9lTL" version="19.0.0" type="github">
+  <diagram id="LGe4wh-2-dh8B7qXWwJX" name="Page-1">
+    <mxGraphModel dx="1209" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-11" value="系统频率" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="74RRN_56JLmQ9nVY0l3A-1" target="74RRN_56JLmQ9nVY0l3A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;电力系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-8" value="发电功率" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="74RRN_56JLmQ9nVY0l3A-2" target="74RRN_56JLmQ9nVY0l3A-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-2" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;发电机组&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-13" value="ACE计算" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="74RRN_56JLmQ9nVY0l3A-3" target="74RRN_56JLmQ9nVY0l3A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-3" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;ACE计算&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-15" value="控制命令" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="74RRN_56JLmQ9nVY0l3A-4" target="74RRN_56JLmQ9nVY0l3A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-4" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;分配规则&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-17" value="解决方案" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=19;" edge="1" parent="1" source="74RRN_56JLmQ9nVY0l3A-5" target="74RRN_56JLmQ9nVY0l3A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-5" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;经济调度&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="160" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="74RRN_56JLmQ9nVY0l3A-20" value="负荷频率控制" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
